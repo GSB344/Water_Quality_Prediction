@@ -1,1 +1,2 @@
 # Water_Quality_Prediction
+This project employs a variety of machine learning algorithms, including K Nearest Neighbors, Random Forest, Support Vector Machine, and Decision Tree. These algorithms analyze the Water Potability dataset to predict water quality. The project aims to determine the accuracy of each algorithm in predicting water potability, providing valuable insights into the effectiveness of different machine learning approaches for this specific application.
